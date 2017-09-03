@@ -1,0 +1,21 @@
+#DIFFERENT_VALUES 1.1 - Intro to different number of values to some properties.
+#DIFFERENT_VALUES 1.2 - what are the different numbers
+#DIFFERENT_VALUES 1.3 - Examples
+#DIFFERENT_VALUES 1.2 - Outro to different number of values to some properties.
+
+
+
+#VIDEO_TEMPLATE 1.1 - Intro to
+Hey Chris from Codify Academy here, in this video I want to cover what happens when add a different number of values to some properties. like margin or padding for instance
+
+
+#DIFFERENT_VALUES 1.2 - what are the different numbers
+we can add between 1 and 4 values to some CSS properties and we'll get different results.
+So we'll need to try and remember, based on the number of values given, where are those actually going to apply, lets take a look.
+
+#DIFFERENT_VALUES 1.3 - Examples
+Lets take a look at our Code from the last video
+
+
+#VIDEO_TEMPLATE 1.2 - Outro to
+Well that's it for now, hopefully, you'll remember when to use these but as always practice with it and review. and don't be afraid to try and get stuff wrong you can try applying display: block, inline or inline-block to any tag you want!
